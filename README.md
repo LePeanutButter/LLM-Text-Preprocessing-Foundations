@@ -1,6 +1,6 @@
 # Embeddings and Sliding Windows
 
-**Escuela Colombiana de Ingeniería Julio Garavito**
+**Escuela Colombiana de Ingeniería Julio Garavito**  
 **Student:** Santiago Botero García
 
 ## Overview
